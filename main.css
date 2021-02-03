@@ -1,0 +1,28 @@
+body{
+    background-color: #999;
+    color: white;
+    font-family:  Arial;
+    background-image: url(https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2019/12/12/2fa2638e-1ca7-11ea-8971-922fdc94075f_image_hires_174609.JPG?itok=axx7y6Tu&v=1576143981);
+    background-size: 1920px 1080px;
+    font-size: 15px;
+}
+
+a{
+background-color: black;
+color: white;
+border-radius: 5px;
+text-decoration: none;
+padding: 5px 5px 5px 5px;
+margin: 1px;
+}
+
+ul{
+    color: white;
+
+    border-radius: 10px;
+    margin: 1px;
+}
+
+img{
+    float: left;
+}
