@@ -7,6 +7,7 @@ body{
 
 ul{
     background-color: #333;
+    color: white;
     margin: 10px;
     padding: 10px 15px 10px 15px;
     border-radius: 10px;
@@ -14,25 +15,35 @@ ul{
 
 ul a{
     background-color: #666;
+    color: white;
     padding: 5px;
     border-radius: 5px;
 }
 
 ul a:hover{
-    background-color: #333;
+    background-color: #444;
 }
 
 .button{
+    border: none;
     background-color: #666;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
     padding: 10px;
     padding: 10px 15px 10px 15px;
 }
 
 .button:hover{
-    background-color: #333;
+    background-color: #444;
+    color: white;
 }
 
 .container {
+    background-color: #5555;
+    margin: 10px;
     width: 500px;
     clear: both;
     padding: 10px 15px 10px 15px;
