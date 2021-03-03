@@ -32,9 +32,14 @@ a:hover{
 .container {
     width: 500px;
     clear: both;
-  }
+}
   
-  .container input {
+.container input {
     width: 100%;
     clear: both;
-  }
+}
+
+.container textarea{
+    width: 100%;
+    clear: both;
+}
