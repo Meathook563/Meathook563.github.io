@@ -33,3 +33,7 @@ a:hover{
     background-color: #111;
     padding: 10px;
 }
+
+form{
+    float: left;
+}
