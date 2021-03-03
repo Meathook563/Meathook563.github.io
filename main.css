@@ -31,5 +31,5 @@ a:hover{
 }
 
 form{
-    float: left;
+    align-items: baseline;
 }
