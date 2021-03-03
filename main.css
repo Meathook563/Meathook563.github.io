@@ -18,8 +18,12 @@ ul a{
     border-radius: 5px;
 }
 
+ul a:hover{
+    background-color: #333;
+}
+
 .button{
-    background-color: #555;
+    background-color: #666;
     padding: 10px;
     padding: 10px 15px 10px 15px;
 }
