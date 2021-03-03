@@ -8,18 +8,20 @@ body{
 ul{
     background-color: #333;
     margin: 10px;
-    padding: 10px 10px;
-    border-radius: 5px;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
 }
 
 ul a{
     background-color: #666;
     padding: 5px;
+    border-radius: 5px;
 }
 
 a:hover{
     background-color: #555;
     padding: 5px;
+    border-radius: 5px;
 }
 
 .button{
