@@ -19,8 +19,12 @@ ul a{
 }
 
 .button{
-    background-color: #333;
+    background-color: #555;
     padding: 10px;
+}
+
+.button:hove{
+    background-color: #333;
 }
 
 .container {
