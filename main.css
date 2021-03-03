@@ -10,7 +10,6 @@ ul{
     color: white;
     margin: 10px;
     padding: 10px 15px 10px 15px;
-    border-radius: 10px;
 }
 
 ul a{
@@ -22,6 +21,14 @@ ul a{
 
 ul a:hover{
     background-color: #444;
+}
+
+h1{
+    padding: 10px 15px 10px 15px;
+}
+
+p{
+    padding: 10px 15px 10px 15px;
 }
 
 .button{
